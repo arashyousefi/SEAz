@@ -1,6 +1,6 @@
-#BasicMatch #
+# BasicMath #
 
-###Methods ###
+### Methods ###
 
 |Method name|Function|
 |:-----|:-----|
