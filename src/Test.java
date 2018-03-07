@@ -39,7 +39,4 @@ class Test
             System.out.println("Multiply: Failed, expected = " + expected + ", result = " + result);
         }
     }
-
-
-
 }
